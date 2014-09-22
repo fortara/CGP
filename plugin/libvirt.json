@@ -113,5 +113,17 @@
 		"vertical": "Milliseconds",
 		"legend_format": "%5.1lf",
 		"scale": 0.000001
-	}
+	},
+        "memory": {
+                "title": "vMEMORY usage on {{HOST}}",
+                "vertical": "Bytes",
+                "legend": {
+                        "value": {
+                                "name": "Total",
+                                "color": "ff0000"
+                        }
+                },
+                "base": "1024"
+        }
 }
+
