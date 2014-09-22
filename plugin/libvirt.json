@@ -115,7 +115,7 @@
 		"scale": 0.000001
 	},
         "memory": {
-                "title": "vMEMORY usage on {{HOST}}",
+                "title": "Total Memory on {{HOST}}",
                 "vertical": "Bytes",
                 "legend": {
                         "value": {
